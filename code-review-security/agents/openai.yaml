@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Review Security"
+  short_description: "Kod güvenliği ve kullanıcı etkisi risklerini denetler"
+  default_prompt: "Use $code-review-security to review the current code changes for security vulnerabilities, incorrect business logic, and potential harm to users. Provide prioritized, evidence-backed findings and regression tests."

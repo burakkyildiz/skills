@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs & temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Build outputs
+dist/
+build/
+
+# Codex built-in system skills
+.system/
